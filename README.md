@@ -1,3 +1,3 @@
-# SquareNumber
+# Swift AWS
 
-A description of this package.
+An example of a Swift server app running on AWS (http). 
